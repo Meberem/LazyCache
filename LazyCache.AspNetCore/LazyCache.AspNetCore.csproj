@@ -20,7 +20,6 @@
     <RepositoryUrl>https://github.com/alastairtree/LazyCache</RepositoryUrl>
     <PackageTags>LazyCache DependecyInjection ServiceCollection Singleton Transient</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageId>Meberem.LazyCache.AspNetCore</PackageId>
   </PropertyGroup>
 
 
